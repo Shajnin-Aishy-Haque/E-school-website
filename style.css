@@ -1,0 +1,164 @@
+.container-fluid{
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+
+.banner{
+    background-color:rgb(237, 250, 237);
+    
+
+}
+.logo img{
+    width: 40%;
+}
+.choose {
+    font-size: 18px;
+    font-weight: 700;
+}
+.style{
+    color: black;
+}
+.sign-in-button{
+    background-color:rgb(88, 177, 110) ;
+    color:white;
+    border:none;
+    border-radius:30px;
+    padding:15px 35px;
+    cursor: pointer;
+    position: relative;
+    bottom: 5px;
+    
+    }
+    .title{
+        font-size: 50px;
+        font-weight: bolder;
+    }
+    p{
+        font-size: 18px;
+    }
+      
+    .col-md-6{
+       
+        padding: 10px 100px 100px 100px;
+       
+    }
+    .heading{
+        margin-top: 70px;
+    }
+    .banner-img{
+        position: relative;
+        right: 100px;
+        top:70px;
+    }
+    .first-column{
+        margin-left: 70px;
+        margin-top:50px;
+    }
+    .show-off{
+        padding-left: 90px;
+        padding-top: 30px;
+    }
+    
+    .topic, .student, .test-token, .courses{
+        padding:50px 30px;
+        margin: 20px;
+        height: 300px;
+        width: 300px;
+        border-radius: 12px;
+        background-color:rgb(245, 250, 247) ;
+    }
+    .show-off-img-1, .show-off-img-4 {
+        width: 75px;
+        margin-left: 75px;
+    } 
+    .show-off-img-2{
+        width: 85px;
+        margin-left: 75px;
+    } 
+    .show-off-img-3 {
+        width: 75px;
+        margin-left: 75px;
+    } 
+    .show-off-text{
+        margin-top:25px ;
+        margin-left: 45px;
+    }
+    .show-off-text h3{
+        font-weight: bolder;
+        font-size: 25px;
+    }
+    .show-off-text h5{
+        font-weight:bold;
+        color: rgb(104, 133, 104);
+        font-size: 20px;
+    }
+    .student{
+        background-color:white ;
+        box-shadow: 0px 20px 20px 20px rgb(238, 240, 240);
+    }
+    .online-courses .card-group{
+        padding:0px 60px;
+    }
+     h1{
+        margin-top: 100px;
+       text-align: center;
+        margin-bottom: 60px;
+        font-weight: bolder;
+    }
+    .card-text{
+        font-size: 20px;
+        color: rgb(105, 101, 101);
+      
+    }
+    .card{
+        border: none;
+        box-shadow: 0px 20px 20px 20px rgb(238, 240, 240);
+        padding:25px 25px 0px 25px;
+        margin:10px 35px;
+        border-radius: 3%;
+       
+    }
+    .card-footer{
+        background-color:white;
+        border-top: none;
+       
+    }
+    .courses-date p{
+        padding-top:12px;
+        padding-left: 7px;
+        color: grey;
+        font-weight: 700;
+    }
+    
+    .testimonial-body{
+        width: 900px;
+        margin-top: 80px;
+        
+    }
+    .testimonial-body div p{
+    width: 600px;
+    
+    font-weight: 700;
+    }
+    .last-part{
+        background-color: rgb(39, 42, 46);
+        color: white;
+        
+        padding-top: 70px;
+        margin-top: 100px;
+        margin-bottom: 5px;
+      
+    }
+    
+    .list-name{
+        font-weight: bolder;
+        font-size: 20px;
+    }
+    footer{
+        text-align: center;
+        color: white;
+        padding-top:100px;
+    }
+    
+        
